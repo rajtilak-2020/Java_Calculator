@@ -14,7 +14,7 @@ A simple yet elegant calculator application developed in Java using Swing. This 
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/Rajtilak2020/Java_Based_Calculator.git
+   git clone https://github.com/rajtilak-2020/Java_Based_Calculator.git
 ## Usage
 - **Basic Operations**: Click the number buttons to input numbers, and then use the operation buttons (+, -, *, /) to perform calculations.
 - **Square Root**: Click the √ button to compute the square root of the displayed number.
